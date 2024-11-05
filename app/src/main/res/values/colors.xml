@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mainw">#FFFFFFFF</color>
+    <color name="add1w">#F6D0D0</color>
+    <color name="add2w">#79757A</color>
+    <color name="mainb">#373636</color>
+    <color name="add1b">#4A4A4A</color>
+    <color name="add2b">#79757A</color>
+</resources>
